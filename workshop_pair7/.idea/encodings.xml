@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AmicablePairs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AmicablePairs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Anagram/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Anagram/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Armstrong/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Armstrong/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CharCount/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CharCount/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Fibonacci/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Fibonacci/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PerfectNumbers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PerfectNumbers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UniqueChar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UniqueChar/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
